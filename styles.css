@@ -142,6 +142,7 @@ span.line {width: 23px; height: 4px; display: block; border-radius: 1px;}
 /* banner second section */
 
 /* footer section */
+.footer-section .container img {width: 60px; height: auto;}
 
 .footer-section .banner-image {width: 100%;}
 
