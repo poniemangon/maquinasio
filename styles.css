@@ -123,9 +123,6 @@ span.line {width: 23px; height: 4px; display: block; border-radius: 1px;}
 
 .banner-second-section .container .texts h2 {margin: 25px 0;}
 
-@media (max-width: 1400px){
-    .banner-second-section {background-position: 102% -60%;}
-}
 
 @media (max-width: 992px){
     .banner-second-section {background-image: none;}
